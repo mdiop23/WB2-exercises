@@ -3,4 +3,4 @@ billTotal = 147.83
 tipPercentage = .2
 tipAmount = billTotal * tipPercentage
 
-console.log(tipAmount);
+console.log("Your tip amount is " + tipAmount);
